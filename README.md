@@ -4,4 +4,5 @@ To do:
 * documentation 
 * simplification 
 * working with classes 
-* ... 
+* add exemplar dataset to work with 
+*... 
